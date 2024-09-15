@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:liquid_swipe_example/home_page.dart';
+import 'package:liquid_swipe_example/1.dart';
 
 void main() {
   runApp(const MyApp());
